@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CalculAge/CalculAge.csproj" />
+  <Project Path="Calculatrice/Calculatrice.csproj" />
+  <Project Path="DiviseursEtNombrePremier/DiviseursEtNombrePremier.csproj" />
+  <Project Path="MoyenneDesNotes/MoyenneDesNotes.csproj" />
+  <Project Path="StatistiquesDeDossiers/StatistiquesDeDossiers.csproj" />
+  <Project Path="SuiteConway/SuiteConway.csproj" />
+</Solution>
