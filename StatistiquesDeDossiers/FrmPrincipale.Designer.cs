@@ -55,7 +55,6 @@
             TxtDossier.Name = "TxtDossier";
             TxtDossier.Size = new Size(469, 27);
             TxtDossier.TabIndex = 1;
-            TxtDossier.TextChanged += TxtDossier_TextChanged;
             // 
             // BtnNombreFichier
             // 

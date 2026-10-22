@@ -6,14 +6,9 @@ namespace StatistiquesDeDossiers
         {
             InitializeComponent();
             TxtDossier.PlaceholderText = @"C:\cfai\informatique Licence\C#\CoursScharp";
-            TxtDossier.TextChanged += TxtDossier_TextChanged;
         }
 
-        private void TxtDossier_TextChanged(object sender, EventArgs e)
-        {
-            // Dès que le chemin change, on désactive les contrôles
-            DesactiverControles();
-        }
+    
 
         private void BtnDossierExiste_Click(object sender, EventArgs e)
         {
@@ -34,16 +29,13 @@ namespace StatistiquesDeDossiers
             }
             else
             {
+                BtnFichierTrierza.Enabled = false;
+                BtnListfichiertrieraz.Enabled = false;
+                BtnCompte.Enabled = false;
+                TxtAfficheNbr.Enabled = false;
                 MessageBox.Show("Le dossier \"" + chemindossier + "\" n'existe pas.");
             }
           
-        }
-        private void DesactiverControles()
-        {
-            BtnFichierTrierza.Enabled = false;
-            BtnListfichiertrieraz.Enabled = false;
-            BtnCompte.Enabled = false;
-            TxtAfficheNbr.Enabled = false;
         }
    
         private void BtnNombreFichier_Click(object sender, EventArgs e)
