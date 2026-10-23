@@ -1,8 +1,11 @@
 <Solution>
-  <Project Path="CalculAge/CalculAge.csproj" />
-  <Project Path="Calculatrice/Calculatrice.csproj" />
-  <Project Path="DiviseursEtNombrePremier/DiviseursEtNombrePremier.csproj" />
-  <Project Path="MoyenneDesNotes/MoyenneDesNotes.csproj" />
-  <Project Path="StatistiquesDeDossiers/StatistiquesDeDossiers.csproj" />
-  <Project Path="SuiteConway/SuiteConway.csproj" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/AnalyseFichiersTempo/AnalyseFichiersTempo.csproj" Id="c15649d8-6c54-4a11-bb33-7b7db8698c69" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/CalculAge/CalculAge.csproj" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/Calculatrice/Calculatrice.csproj" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/DiviseursEtNombrePremier/DiviseursEtNombrePremier.csproj" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/EditeurDeTexte/EditeurDeTexte.csproj" Id="f7c429ec-6e77-4a20-bfde-37378da8ae41" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/GesttionnaireDeProduits/GesttionnaireDeProduits.csproj" Id="74b3d23d-8570-4ad0-b244-7ea448b2467c" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/MoyenneDesNotes/MoyenneDesNotes.csproj" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/StatistiquesDeDossiers/StatistiquesDeDossiers.csproj" />
+  <Project Path="../../../../../../../../cfai/informatique Licence/C#/CoursScharp/SuiteConway/SuiteConway.csproj" />
 </Solution>
